@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="chromedriver_win32">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Selenium Downloaded folder/chromedriver_win32.zip!/" />
+      <root url="jar://C:/Selenium Downloaded folder/IEDriverServer_x64_2.53.1.zip!/" />
+    </SOURCES>
+  </library>
+</component>
