@@ -7,8 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="poi-3.14-20160307" level="project" />
-    <orderEntry type="library" name="selenium-java-2.53.1-srcs" level="project" />
-    <orderEntry type="library" name="chromedriver_win32" level="project" />
+    <orderEntry type="library" exported="" name="poi-3.14-20160307" level="project" />
+    <orderEntry type="library" exported="" name="selenium-java-2.53.1-srcs" level="project" />
+    <orderEntry type="library" exported="" name="chromedriver_win32" level="project" />
   </component>
 </module>
